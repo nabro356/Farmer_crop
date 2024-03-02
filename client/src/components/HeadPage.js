@@ -1,4 +1,4 @@
-/* This example requires Tailwind CSS v2.0+ */
+* This example requires Tailwind CSS v2.0+ */
 import { Fragment } from 'react'
 import './Footer.css';
 import '.././App.css'
@@ -92,7 +92,7 @@ export default function HeadPage() {
           <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-amber-400 sm:text-5xl md:text-6xl">
-                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '100px' }}> Farm </span>
+                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '100px' }}>Farm </span>
                 <br></br>
               </h1>
 
@@ -148,7 +148,9 @@ export default function HeadPage() {
                 <path fill="currentColor"
                   d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                 </path>
-              </svg>ఒక రైతుగా, నేను పంట వ్యాధుల గుర్తింపు యాప్ గురించి నా సమీక్షను అందించాలనుకుంటున్నాను. నా పంటలను ఆరోగ్యంగా ఉంచడానికి మరియు వ్యాధులను గుర్తించడానికి - ఈ యాప్ ఒక ముఖ్యమైన సాధారణ విధిని నిర్ధారించడంలో నాకు సహాయపడుతుంది.
+              </svg> ఒక రైతుగా, నేను పంట వ్యాధుల గుర్తింపు యాప్ గురించి నా సమీక్షను అందించాలనుకుంటున్నాను. నా పంటలను ఆరోగ్యంగా ఉంచడానికి మరియు వ్యాధులను గుర్తించడానికి - ఈ యాప్ ఒక ముఖ్యమైన సాధారణ విధిని నిర్ధారించడంలో నాకు సహాయపడుతుంది.
+            <ul className="flex justify-center mb-0"></ul>
+            </p>
             <ul className="flex justify-center mb-0">
               <li>
                 <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
@@ -200,7 +202,7 @@ export default function HeadPage() {
         <div className="flex flex-wrap justify-center">
           <div className="grow-0 shrink-0 basis-auto w-full lg:w-8/12 px-3">
             <h5 className="text-lg font-bold mb-3">Kantamma</h5>
-            <p className="font-medium text-gray-700 mb-4">Raithu Coolie</p>
+            <p className="font-medium text-gray-700 mb-4">Rythu Mestri</p>
             <p className="text-gray-500 mb-6">
               <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="quote-left"
                 className="w-6 pr-2 inline-block" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -260,17 +262,15 @@ export default function HeadPage() {
           src="https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg" alt="avatar" />
         <div className="flex flex-wrap justify-center">
           <div className="grow-0 shrink-0 basis-auto w-full lg:w-8/12 px-3">
-            <h5 className="text-lg font-bold mb-3">Anna Deynah</h5>
-            <p className="font-medium text-gray-700 mb-4">UX Designer</p>
+            <h5 className="text-lg font-bold mb-3">Anna</h5>
+            <p className="font-medium text-gray-700 mb-4">Farmer</p>
             <p className="text-gray-500 mb-6">
               <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="quote-left"
                 className="w-6 pr-2 inline-block" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                 <path fill="currentColor"
                   d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                 </path>
-              </svg>Duis sagittis, turpis in ullamcorper venenatis, ligula nibh porta dui, sit amet
-              rutrum enim massa in ante. Curabitur in justo at lorem laoreet ultricies. Nunc
-              ligula felis, sagittis eget nisi vitae.
+              </svg>This app has helped me a lot. I am now receiving twice the yield.
             </p>
             <ul className="flex justify-center mb-0">
               <li>
@@ -427,8 +427,8 @@ export default function HeadPage() {
     <div className="w-1/2">
       <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
       <p className="text-lg mb-2">VRSEC, Vijayawada</p>
-      <p className="text-lg mb-2">+91 7075867999</p>
-      <p className="text-lg mb-2">+91 7799778899</p>
+      <p className="text-lg mb-2">+91 2233445566</p>
+      <p className="text-lg mb-2">+91 7788990011</p>
     </div>
 
     <div className="w-1/2">
@@ -456,7 +456,7 @@ export default function HeadPage() {
   </div>
 
   <div className="max-w-4xl mx-auto border-t border-white pt-4 mt-8">
-    <p className="text-center text-sm">&copy; 2024 Team-EDITH. All Rights reserved.</p>
+    <p className="text-center text-sm">&copy; 2023 Team-EDITH. All Rights reserved.</p>
   </div>
 </div>
     </>
