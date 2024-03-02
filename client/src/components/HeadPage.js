@@ -92,7 +92,7 @@ export default function HeadPage() {
           <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-amber-400 sm:text-5xl md:text-6xl">
-                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '100px' }}>Farm </span>
+                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '100px' }}> Farm </span>
                 <br></br>
               </h1>
 
@@ -427,8 +427,8 @@ export default function HeadPage() {
     <div className="w-1/2">
       <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
       <p className="text-lg mb-2">VRSEC, Vijayawada</p>
-      <p className="text-lg mb-2">+91 9289039721</p>
-      <p className="text-lg mb-2">+91 8595288895</p>
+      <p className="text-lg mb-2">+91 7075867999</p>
+      <p className="text-lg mb-2">+91 7799778899</p>
     </div>
 
     <div className="w-1/2">
