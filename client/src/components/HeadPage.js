@@ -92,17 +92,17 @@ export default function HeadPage() {
           <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
             <div className="sm:text-center lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-amber-400 sm:text-5xl md:text-6xl">
-                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '100px' }}>किसान </span>
+                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '100px' }}>Farm </span>
                 <br></br>
               </h1>
 
               <h1 className="text-4xl tracking-tight font-extrabold text-400 sm:text-5xl md:text-6xl">
-                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '220px' }}> मित्र</span>
+                <span className="block xl: text-600 xl:inline" style={{ marginLeft: '220px' }}> Easy</span>
                 <br></br>
               </h1>
 
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              At KisanMitra, we revolutionize crop disease detection and management with CropCheck. Our web application utilizes advanced technology, AI, and deep learning algorithms to efficiently identify and combat crop diseases, ensuring food security and sustainable agriculture. </p>
+              At FarmEasy, we revolutionize crop disease detection and management with CropCheck. Our web application utilizes advanced technology, AI, and deep learning algorithms to efficiently identify and combat crop diseases, ensuring food security and sustainable agriculture. </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
 
                 <div className="mt-3 sm:mt-0 sm:ml-3">
@@ -140,7 +140,7 @@ export default function HeadPage() {
           src="https://thumbs.dreamstime.com/b/new-delhi-india-january-indian-poor-man-came-to-see-preparations-day-parade-portrait-103167033.jpg" alt="avatar" style={{"width":"150px"}} />
         <div className="flex flex-wrap justify-center">
           <div className="grow-0 shrink-0 basis-auto w-full lg:w-8/12 px-3">
-            <h5 className="text-lg font-bold mb-3">Bhajan lal</h5>
+            <h5 className="text-lg font-bold mb-3">Subbaya Rayudu</h5>
             <p className="font-medium text-gray-700 mb-4">Farmer</p>
             <p className="text-gray-500 mb-6">
               <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="quote-left"
@@ -148,8 +148,7 @@ export default function HeadPage() {
                 <path fill="currentColor"
                   d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                 </path>
-              </svg>मैं एक किसान के रूप में एक फसल के रोग की पहचान करने वाले ऐप के बारे में अपनी समीक्षा प्रस्तुत करना चाहूंगा। यह ऐप मेरे लिए एक महत्वपूर्ण साधारण कर्तव्य को सुनिश्चित करने में मदद करता है - मेरी फसलों को स्वस्थ रखने और रोगों की पहचान करने के लिए।
-            </p>
+              </svg>ఒక రైతుగా, నేను పంట వ్యాధుల గుర్తింపు యాప్ గురించి నా సమీక్షను అందించాలనుకుంటున్నాను. నా పంటలను ఆరోగ్యంగా ఉంచడానికి మరియు వ్యాధులను గుర్తించడానికి - ఈ యాప్ ఒక ముఖ్యమైన సాధారణ విధిని నిర్ధారించడంలో నాకు సహాయపడుతుంది.
             <ul className="flex justify-center mb-0">
               <li>
                 <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
@@ -200,8 +199,8 @@ export default function HeadPage() {
           src="https://media.istockphoto.com/id/1163985476/photo/portrait-of-schoolgirl-standing-at-school-campus.jpg?s=612x612&w=0&k=20&c=TnJrtqufrvW4zvF1_aklh3Zj7B5wnSYqXVrEUMnjZzg=" alt="avatar" />
         <div className="flex flex-wrap justify-center">
           <div className="grow-0 shrink-0 basis-auto w-full lg:w-8/12 px-3">
-            <h5 className="text-lg font-bold mb-3">Lakshmi</h5>
-            <p className="font-medium text-gray-700 mb-4">Student</p>
+            <h5 className="text-lg font-bold mb-3">Kantamma</h5>
+            <p className="font-medium text-gray-700 mb-4">Raithu Coolie</p>
             <p className="text-gray-500 mb-6">
               <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="quote-left"
                 className="w-6 pr-2 inline-block" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -209,7 +208,7 @@ export default function HeadPage() {
                   d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                 </path>
               </svg>
-              यह वेबसाइट बहुत ही उपयोगी है और किसानों के लिए एक महत्वपूर्ण स्रोत है। इसका उपयोग करके, हम कृषि फसलों को पहचानने में मदद प्राप्त कर सकते हैं। इस वेबसाइट के द्वारा, हम अपने फसलों की जानकारी दर्ज करके उन्हें पहचान सकते हैं और संभावित बीमारियों, कीटों, या पोषक तत्वों की जांच कर सकते हैं।
+              ఈ వెబ్‌సైట్ రైతులకు చాలా ఉపయోగకరమైనది మరియు ముఖ్యమైన వనరు. దీన్ని ఉపయోగించడం ద్వారా, వ్యవసాయ పంటలను గుర్తించడంలో సహాయం పొందవచ్చు. ఈ వెబ్‌సైట్ ద్వారా, మన పంటలను గుర్తించడానికి మరియు సాధ్యమయ్యే వ్యాధులు, తెగుళ్లు లేదా పోషకాల లోపాలను తనిఖీ చేయడానికి వాటి గురించిన సమాచారాన్ని నమోదు చేయవచ్చు.
             </p>
             <ul className="flex justify-center mb-0">
               <li>
@@ -427,7 +426,7 @@ export default function HeadPage() {
   <div className="max-w-4xl mx-auto flex justify-between items-center">
     <div className="w-1/2">
       <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
-      <p className="text-lg mb-2">K-37, H-block, Vikas Puri</p>
+      <p className="text-lg mb-2">VRSEC, Vijayawada</p>
       <p className="text-lg mb-2">+91 9289039721</p>
       <p className="text-lg mb-2">+91 8595288895</p>
     </div>
@@ -457,7 +456,7 @@ export default function HeadPage() {
   </div>
 
   <div className="max-w-4xl mx-auto border-t border-white pt-4 mt-8">
-    <p className="text-center text-sm">&copy; 2023 Team-UpperMoons. All Rights reserved.</p>
+    <p className="text-center text-sm">&copy; 2024 Team-EDITH. All Rights reserved.</p>
   </div>
 </div>
     </>
